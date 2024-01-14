@@ -1,3 +1,8 @@
+<h1> Hello World! <a href = "https://github.com/LeoHsuProgrammingLab?tab=repositories"><img src="https://media.giphy.com/media/dvyARzAPO6G6JxM1Wq/giphy.gif" width="3%"></a> </h1>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leohsucc@gmail.com)](mailto:leohsucc@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chih-chuan-hsu/)](https://www.linkedin.com/in/chih-chuan-hsu/)
+
 - Hi, I’m Leo Hsu. A student studies in National Taiwan University, majoring in Forestry and Environmental Resources Conservation.
   
 - Due to the passion of programming, I took some required courses in NTU CSIE & NTU EE.
