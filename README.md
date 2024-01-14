@@ -13,8 +13,11 @@
 
 <h2> Tech Stack </h2>
 <h3> Languages </h3>
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,kotlin,js,mysql&perline=10)](https://skillicons.dev)
+
 <h3> Dev </h3>
+
 [![My Skills](https://skillicons.dev/icons?i=pytorch,androidstudio,git,github,latex,md&perline=10)](https://skillicons.dev)
 
 
