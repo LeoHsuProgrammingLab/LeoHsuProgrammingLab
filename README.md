@@ -2,6 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leohsucc@gmail.com)](mailto:leohsucc@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chih-chuan-hsu/)](https://www.linkedin.com/in/chih-chuan-hsu/)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab)
 
 - Hi, I’m Leo Hsu. A student studies in National Taiwan University, majoring in Forestry and Environmental Resources Conservation.
   
