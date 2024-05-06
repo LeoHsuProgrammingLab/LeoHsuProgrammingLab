@@ -10,6 +10,7 @@
 
 - My Master's thesis is developing an Android Application to replace traditional forest sampling instruments like Relaskop.
 - Currently, I’m a Graduate Research Assistant in the Department of Computer Science and Information Engineering, interested in computer vision and deep learning techniques.
+- In 2024 Fall, I will be a Master of Computer Science student @ Texas A&M University. Let's go Aggies!
 
 <h2> Tech Stack </h2>
 <h3> Languages </h3>
