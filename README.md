@@ -9,7 +9,7 @@
 
 - I finished my Bachelor's degree and Master's degree at National Taiwan University, with a major in Forestry and Environmental Resource Conservation (FERC).
 - My Master's thesis developed an Android Application to replace traditional forest sampling instruments like Relaskop.
-- With a strong passion for deep learning, I became a graduate research assistant in the Department of Computer Science and Information Engineering at National Taiwan University, where I focused on computer vision and large-language models.
+- With a strong passion for deep learning, I became a graduate research assistant in the Department of Computer Science and Information Engineering at National Taiwan University, where I focused on computer vision (object detection) and large-language models (Retrieval Augmented Generation).
 - Let's go Aggies!
 
 <h2> Tech Stack </h2>
