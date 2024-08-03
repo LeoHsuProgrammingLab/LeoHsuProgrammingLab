@@ -5,12 +5,12 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab)
 
 <h2> About Leo <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="3%"></h2>
-<p> Hi, I’m Leo Hsu. At National Taiwan University, I majored in Forestry and Environmental Resources Conservation.<br/> 
-<p> With my passion for programming, I dived into Android application development & deep learning. <br/>
+<p> Howdy! I’m Leo Hsu, a Master of Computer Science student at Texas A&M University, starting in 2024 Fall. <br/> 
 
-- My Master's thesis is developing an Android Application to replace traditional forest sampling instruments like Relaskop.
-- Currently, I’m a Graduate Research Assistant in the Department of Computer Science and Information Engineering, interested in computer vision and deep learning techniques.
-- In 2024 Fall, I will be a Master of Computer Science student @ Texas A&M University. Let's go Aggies!
+- I finished my Bachelor's degree and Master's degree at National Taiwan University, with a major in Forestry and Environmental Resource Conservation (FERC).
+- My Master's thesis developed an Android Application to replace traditional forest sampling instruments like Relaskop.
+- With a strong passion for deep learning, I became a graduate research assistant in the Department of Computer Science and Information Engineering at National Taiwan University, where I focused on computer vision and large-language models.
+- Let's go Aggies!
 
 <h2> Tech Stack </h2>
 <h3> Languages </h3>
