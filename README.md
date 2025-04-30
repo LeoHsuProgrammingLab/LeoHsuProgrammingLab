@@ -12,7 +12,7 @@
 - My Master's thesis developed an Android Application to replace traditional forest sampling instruments like Relaskop, advised by Prof. Tzeng Yih Lam.
 - With a strong passion for deep learning, I became a graduate research assistant in the Department of Computer Science and Information Engineering at National Taiwan University, where I focused on computer vision (object detection and tracking) and large-language models (Retrieval Augmented Generation), advised by Prof. Cheng-Fu Chou.
 - Gig'em Aggies!
-- I worked on Human Motion Generation and 3D/4D reconstruction with Prof. Cheng Zhang.
+- I worked on Human Motion Generation and 3D/4D reconstruction with Prof. [Cheng Zhang](https://czhang0528.github.io/).
 
 <h2> Tech Stack </h2>
 <h3> Languages </h3>
