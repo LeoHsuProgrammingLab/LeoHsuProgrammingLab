@@ -5,13 +5,13 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab)
 
 <h2> About Leo <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="3%"></h2>
-<p> Howdy! I’m Leo Hsu, a Master of Computer Science student at Texas A&M University, starting in 2024 Fall. <br/> 
+<p> Howdy! I’m Leo Hsu, a Master of Computer Science student at Texas A&M University, starting in 2024 Fall. It's going to be the second year! <br/> 
 
-- 敦品勵學！
+- 敦品勵學！(2017-2021, 2022-2024)
 - I finished my Bachelor's degree and Master's degree at National Taiwan University, with a major in Forestry and Environmental Resource Conservation (FERC).
-- My Master's thesis developed an Android Application to replace traditional forest sampling instruments like Relaskop, advised by Prof. Tzeng Yih Lam.
+- I developed an Android Application to replace the traditional forest sampling instrument, Relaskop, in my Master's thesis, advised by Prof. Tzeng Yih Lam.
 - With a strong passion for deep learning, I became a graduate research assistant in the Department of Computer Science and Information Engineering at National Taiwan University, where I focused on computer vision (object detection and tracking) and large-language models (Retrieval Augmented Generation), advised by Prof. Cheng-Fu Chou.
-- Gig'em Aggies!
+- Gig'em Aggies! (2024-2026)
 - I worked on Human Motion & Interaction and 3D/4D reconstruction with Prof. [Cheng Zhang](https://czhang0528.github.io/).
 
 <h2> Tech Stack </h2>
