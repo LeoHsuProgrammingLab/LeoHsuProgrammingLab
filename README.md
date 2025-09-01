@@ -5,14 +5,21 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab)
 
 <h2> About Leo <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="3%"></h2>
-<p> Howdy! I’m Leo Hsu, a Master of Computer Science student at Texas A&M University, starting in 2024 Fall. It's going to be the second year! <br/> 
+<p> Howdy! I’m Leo Hsu, a Master of Computer Science student at Texas A&M University, starting in Fall 2024. It's going to be the second year! <br/> 
 
 - Gig'em Aggies! (2024-2026)
-- I worked on 3D/4D reconstruction \& Physics-aware computer vision with Prof. [Cheng Zhang](https://czhang0528.github.io/).
+- I worked on **3D/4D reconstruction** \& **physics-aware computer** vision with Prof. [Cheng Zhang](https://czhang0528.github.io/).
+  - **G2DSplat: Uncertainty-Aware Graph-Guided Dynamic Gaussian Splatting for Monocular 4D Reconstruction**
+  - **Multi-object tracking in the healthcare environment**
+    - Video surveillance
+    - Adverse activity detection
 - 敦品勵學！(2017-2021, 2022-2024)
 - I finished my Bachelor's degree and Master's degree at National Taiwan University, with a major in Forestry and Environmental Resource Conservation (FERC).
 - I developed an Android Application to replace the traditional forest sampling instrument, Relaskop, in my Master's thesis, advised by Prof. Tzeng Yih Lam.
+- In order to improve the efficiency of forest survey in Taiwan, I collaborated with National Taiwan University Experimental Forest (NTUEF) to develop an [Android tablet application](https://github.com/LeoHsuProgrammingLab/NTUEF_Survey_APP). 
 - With a strong passion for deep learning, I became a graduate research assistant in the Department of Computer Science and Information Engineering at National Taiwan University, where I focused on computer vision (object detection and tracking) and large-language models (Retrieval Augmented Generation), advised by Prof. Cheng-Fu Chou.
+  - Potential Sarcopenia prediction through patient description using BERT
+  - Bed-exiting detection in collaboration with National Taiwan University Hospital
 
 <h2> Tech Stack </h2>
 <h3> Languages </h3>
