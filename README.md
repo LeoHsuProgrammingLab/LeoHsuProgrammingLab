@@ -16,12 +16,12 @@
     - Adverse activity recognition
       
 - 敦品勵學！(2017-2021, 2022-2024)
-- I finished my Bachelor's degree and Master's degree in Department of Forestry and Resource Conservation at National Taiwan University
-- I developed an Android Application to replace the traditional forest sampling instrument, Relaskop, in my Master's thesis, advised by Prof. Tzeng Yih Lam
-- In order to improve the efficiency of forest survey in Taiwan, I collaborated with National Taiwan University Experimental Forest (NTUEF) to develop an [Android tablet application](https://github.com/LeoHsuProgrammingLab/NTUEF_Survey_APP)
-- With a strong passion for deep learning, I became a graduate research assistant in the Department of Computer Science and Information Engineering at National Taiwan University, where I focused on computer vision (object detection and tracking) and large-language models (Retrieval Augmented Generation), advised by Prof. Cheng-Fu Chou
-  - Potential Sarcopenia prediction through patient description using BERT
-  - Patient bed-exiting detection in collaboration with National Taiwan University Hospital
+  - I finished my Bachelor's degree and Master's degree in Department of Forestry and Resource Conservation at National Taiwan University
+  - I developed an Android Application to replace the traditional forest sampling instrument, Relaskop, in my Master's thesis, advised by Prof. Tzeng Yih Lam
+  - In order to improve the efficiency of forest survey in Taiwan, I collaborated with National Taiwan University Experimental Forest (NTUEF) to develop an [Android tablet application](https://github.com/LeoHsuProgrammingLab/NTUEF_Survey_APP)
+  - With a strong passion for deep learning, I became a graduate research assistant in the Department of Computer Science and Information Engineering at National Taiwan University, where I focused on computer vision (object detection and tracking) and large-language models (Retrieval Augmented Generation), advised by Prof. Cheng-Fu Chou
+    - Potential Sarcopenia prediction through patient description using BERT
+    - Patient bed-exiting detection in collaboration with National Taiwan University Hospital
 
 <h2> Tech Stack </h2>
 <h3> Languages </h3>
