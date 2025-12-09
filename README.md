@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chih-chuan-hsu/)](https://www.linkedin.com/in/chih-chuan-hsu/)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab)
 
-<h2> About Leo <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="3%"></h2>
+<h2> About Leo </h2>
 <p> Howdy! I’m Leo Hsu, a Master of Science in Computer Science student at Texas A&M University, starting from Fall 2024. This is my second year! <br/> 
 
 - Gig'em Aggies! (2024-2026)
