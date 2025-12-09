@@ -10,6 +10,7 @@
 - Gig'em Aggies! (2024-2026)
   - I worked on **3D/4D reconstruction**, **fine-grained image generation**, and **physics-aware computer vision** with Prof. [Cheng Zhang](https://czhang0528.github.io/)
     - [**Uncertainty Matters in Dynamic Gaussian Splatting for Monocular 4D Reconstruction**](https://arxiv.org/abs/2510.12768)
+    - **Taxanomy-Aware Fine-Grained Image Generation**
     - **Video surveillance in the healthcare environment**
       - Multi-object tracking and localization
       - Human pose estimation and mesh recovery
