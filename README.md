@@ -5,7 +5,7 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FLeoHsuProgrammingLab)
 
 ## About Me 
-Howdy! I’m **Leo Hsu**, a second-year M.S. student in Computer Science at Texas A&M University. My research interest lie at the intersection of **3D/4D reconstruction**, **fine-grained image generation**, and **physics-aware computer vision**
+Howdy! I’m **Leo Hsu**, a second-year M.S. student in Computer Science at Texas A&M University. My research interest lies at the intersection of **3D/4D reconstruction**, **fine-grained image generation**, and **physics-aware computer vision**
 
 ### Texas A&M University (2024-present)
 *Gig'em Aggies! | Advised by Prof. [Cheng Zhang](https://czhang0528.github.io/)*
@@ -21,7 +21,7 @@ My background spans both **Computer Science** and **Forestry**, where I focused 
 - **Dept. of Computer Science & Information Engineering (GRA)**
   - *Advisor: Prof. Cheng-Fu Chou*
   - Focused on Computer Vision (Object Tracking) and LLMs (RAG).
-  - **Projects:** Sarcopenia prediction using BERT; Patient bed-exiting detection (collab with NTU Hospital).
+  - **Projects:** Sarcopenia prediction using BERT; Patient bed-exiting detection (collaborated with NTU Hospital).
 - **Dept. of Forestry & Resource Conservation (B.S. & M.S.)**
   - *Advisor: Prof. Tzeng Yih Lam*
   - **Thesis:** Developed an Android application to digitize the traditional Relaskop forest sampling instrument.
